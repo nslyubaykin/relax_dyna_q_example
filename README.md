@@ -7,6 +7,6 @@ The performance versus vanilla TD3 is measured by averaging learning curves over
 
 The results are summarised in the following plot:
 
-![dyna_q_benchmark](https://github.com/nslyubaykin/relax_dyna_q_example/blob/master/walker2d_benchmark.png)
+![dyna_q_benchmark](https://github.com/nslyubaykin/relax_dyna_q_example/blob/master/dyna_q_benchmark.png)
 
 The only difference in hyperparameters settings between DYNA-Q-TD3 and vanilla TD3 is the presence of model based acceleration. We can see a considerable advantage of DYNA-Q by looking at the averaged curves.
